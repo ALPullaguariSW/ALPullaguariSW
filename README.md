@@ -10,7 +10,7 @@ Soy un **Desarrollador de Software** con experiencia en desarrollo backend, arqu
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,dotnet,javascript,react,vite,html,css,astro,opencv,git,github,visualstudio,vscode,sql&perline=6" />
     <!-- Considera añadir más si usas: docker, linux, aws, azure, django, spring, nodejs, etc. -->
