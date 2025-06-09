@@ -61,7 +61,7 @@ I'm a backend developer who thrives on the power of microservices and is committ
 **🖥️ Backend & Databases**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,sqlserver,mongodb" alt="Backend & Databases"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,docker,mongodb" alt="Backend & Databases"/>
   </a>
 </p>
 
